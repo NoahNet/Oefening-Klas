@@ -5,3 +5,7 @@ function Xavier(){
 function Yannick(){
   document.write("Hallo ik ben Yannick!!");
 }
+
+function Alexander() {
+  document.writeln("Hallo ik ben Alexander!!");
+}
