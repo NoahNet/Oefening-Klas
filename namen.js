@@ -9,3 +9,7 @@ function Yannick(){
 function Alexander() {
   document.writeln("Hallo ik ben Alexander!!");
 }
+
+function Noah() {
+  document.writeln("Hallo ik ben Noah!!");
+}
