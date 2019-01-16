@@ -10,6 +10,11 @@ function Alexander() {
   document.writeln("Hallo ik ben Alexander!!");
 }
 
+
 function Noah() {
   document.writeln("Hallo ik ben Noah!!");
+}
+
+function Arthur() {
+  document.writeln("Hallo ik ben Arthur!!");
 }
